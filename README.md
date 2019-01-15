@@ -1,1 +1,1 @@
-# Repo
+Exercice #2 HTML CSS
